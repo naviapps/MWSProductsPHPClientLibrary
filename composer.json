@@ -1,0 +1,22 @@
+{
+    "name": "naviapps/mws-products-php-client-library",
+    "description": "Products API Section Client Library - PHP - Version 2011-10-01",
+    "type": "library",
+    "keywords": ["amazon", "mws", "product", "api", "client"],
+    "homepage": "https://developer.amazonservices.com/doc/products/products/v20111001/php.html",
+    "time": "2016-06-01",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=5.2.8",
+        "ext-curl": "*",
+        "ext-openssl": "*"
+    },
+    "autoload": {
+        "psr-0": { "MarketplaceWebServiceProducts_": "src/" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
