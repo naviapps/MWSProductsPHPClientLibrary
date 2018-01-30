@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": ["amazon", "mws", "product", "api", "client"],
     "homepage": "https://developer.amazonservices.com/doc/products/products/v20111001/php.html",
-    "time": "2016-06-01",
+    "time": "2017-03-22",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.2.8",
